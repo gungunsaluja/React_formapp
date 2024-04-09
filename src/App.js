@@ -24,7 +24,7 @@ function App() {
 // setlastname(event.target.value);
 
 //   }
-//controlled components
+//controlled components-maintain state inside component
 //ek bar radio button vala try karna haii
 
 
